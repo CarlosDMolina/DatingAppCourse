@@ -2848,11 +2848,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\12817\\Desktop\\DatingAppCourse\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\12817\\Desktop\\DatingAppCourse\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "c:\\Users\\12817\\Desktop\\DatingAppCourse\\API\\API.csproj",
+      "projectPath": "C:\\Users\\12817\\Desktop\\DatingAppCourse\\API\\API.csproj",
       "packagesPath": "C:\\Users\\12817\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\12817\\Desktop\\DatingAppCourse\\API\\obj\\",
+      "outputPath": "C:\\Users\\12817\\Desktop\\DatingAppCourse\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\12817\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2924,7 +2924,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
